@@ -1,0 +1,33 @@
+
+[	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(ÉÅÆÍ
+J
+java:S3740"/Provide the parametrized type for this generic.(œÿ”Æúÿÿÿÿ
+{
+java:S1319"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(œÿ”Æúÿÿÿÿ
+j
+java:S1104"OMake map a static final constant or non-public and provide accessors if needed.(œÿ”Æúÿÿÿÿ
+D
+java:S1444")Make this "public static map" field final(œÿ”Æúÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú™æÒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕÁ°éüÿÿÿÿ
+8
+java:S2386"Make this member "protected".(œÿ”Æúÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¦æ„Šþÿÿÿÿ
+¢
+java:S1130)"„Remove the declaration of thrown exception 'java.lang.reflect.InvocationTargetException', as it cannot be thrown from method's body.(ÅðŸÐ8øÃ¿“ 1
+•
+java:S1130)"xRemove the declaration of thrown exception 'java.lang.NoSuchMethodException', as it cannot be thrown from method's body.(ÅðŸÐ8øÃ¿“ 1
+–
+java:S1130)"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(ÅðŸÐ8øÃ¿“ 1
+–
+java:S1130)"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(ÅðŸÐ8øÃ¿“ 1
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¯¡›°
+”
+java:S1130H"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¼£…ë8úÃ¿“ 1
+W	java:S125‰"<This block of commented-out lines of code should be removed.(ÂÊ‰èýÿÿÿÿ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(ß‡Çø
+R	java:S125"<This block of commented-out lines of code should be removed.(Ð¸Ó”
+^
+java:S1075¬"ARefactor your code to get this URI from a customizable parameter.(û¤»a8©ò“ 1
+U
+java:S1135²"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8ªò“ 1

@@ -1,0 +1,6 @@
+
+{
+java:S1319"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(ÿ˜¡ûÿÿÿÿ
+j
+java:S1104"OMake map a static final constant or non-public and provide accessors if needed.(ÿ˜¡ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼åÃ“ùÿÿÿÿ

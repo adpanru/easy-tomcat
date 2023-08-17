@@ -1,0 +1,8 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(Ìõíñ
+s
+java:S1488 "^Immediately return this expression instead of assigning it to the temporary variable "thread".(Ô˜É
+…
+java:S1488%"jImmediately return this expression instead of assigning it to the temporary variable "threadPoolExecutor".(õ¸‚£üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼åÃ“ùÿÿÿÿ

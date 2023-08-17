@@ -4,3 +4,5 @@
 4、发送请求，使用socket实现，发送url和参数
 5、拿到socket返回的字符串，处理拿到url和参数
 6、通过url找到map中对应的key并利用反射拿到selvet中的方法
+simple-tomcat1为单线程的，只能处理一次请求
+simple-tomcat2加入了线程池，可以一直处理请求
